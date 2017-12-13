@@ -8,5 +8,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## APIs 
 
 [YTS.AG API Documentation](https://yts.am/api)
-[List Movies API](https://yts.am/api/v2/list_movies.json)
 
+[List Movies API](https://yts.am/api/v2/list_movies.json)
